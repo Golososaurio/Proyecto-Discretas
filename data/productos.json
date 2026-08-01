@@ -1,0 +1,28 @@
+{
+    "Productos": [
+        {
+            "Nombre": "Caja Tornillos 3mm",
+            "Precio": 5000
+        },
+        {
+            "Nombre": "Combo Martillo x Alicates",
+            "Precio": 30000
+        },
+        {
+            "Nombre": "Candado",
+            "Precio": 10000
+        },
+        {
+            "Nombre": "Bisagras x2",
+            "Precio": 2000
+        },
+        {
+            "Nombre": "Taladro Black n Decker",
+            "Precio": 70000
+        },
+        {
+            "Nombre": "Grifo",
+            "Precio": 27000
+        }
+    ]
+}
